@@ -6,11 +6,11 @@ classes: wide
 
 ## Material
 
-Over the course of the last years as a student and researcher in mathematics, quantitative finance and machine learning I stumbled across many interesting problems and decided it might be worh sharing my notes, thoguhts, slides or code in case more people are interested. Feel free to contact me if you want to discuss anything and make sure to check out the website of my dear friend and fellow PhD student [Niklas Walter](niklaswalter.github.io) whose website contains more fascinating content.
+Over the course of the last years as a student and researcher in mathematics, quantitative finance and machine learning I stumbled across many interesting topics and decided it might be worth sharing my notes, thoughts, slides or code in case more people are interested. Feel free to contact [me]() if you want to discuss anything and make sure to check out the website of my dear friend and fellow PhD student [Niklas Walter](niklaswalter.github.io) whose website contains more fascinating content.
 
 
 * **Optiver's Hungry Ant**
-in *Proceedings of the 40th International Conference on Machine Learning*  
+a brainteaser that was part of Optiver's recruiting process recently.
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2301.11647.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/LinusBleistein/SigLasso){: .btn}  [<i class="fab fa-google"></i> colab](https://colab.research.google.com/drive/1u7cPvjooGWKv9EaVmdlKSyv5RJoN6Uuq?usp=sharing)
 
 
