@@ -16,11 +16,11 @@ A brainteaser that was part of Optiver's recruiting process recently
 A brainteaser that was part of Optiver's recruiting process some time ago  
 [<i class="fab fa-github"></i> code](https://github.com/NiklasMWeber/Optivers_Magic_Wand){: .btn}  [<i class="fab fa-google"></i> colab](https://colab.research.google.com/drive/1EeN-cAJlbcCTwY-jDxZxac2JhpjLA-Cf?usp=sharing){: .btn}
 
-* **Signature Regression and an Application to Credit Cycle Forecasting**. Weber, N. (2022)
+* **Signature Regression and an Application to Credit Cycle Forecasting**. Weber, N. (2022)  
   The GitHub repository where you can find my Master Thesis and the regarding Code  
 [<i class="fab fa-github"></i> code](https://github.com/NiklasMWeber/CreditCycleForecasting){: .btn}
 
-* **Linear Regression on Truncated Path Signatures**
+* **Linear Regression on Truncated Path Signatures**  
   Collection of slides on the topic of linear regression on the truncated signature of a path  
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/Linear_Signature_Regression.pdf){: .btn}
 
