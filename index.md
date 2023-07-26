@@ -4,7 +4,7 @@ author_profile: true
 classes: wide
 ---
 
-Welcome to my personal website! If you want to get in touch, you can contact me at [adeline.fermanian@califrais.fr](mailto:adeline.fermanian@califrais.fr)
+Welcome to my personal website! If you want to get in touch, you can contact me at [weber@math.lmu.de](mailto:weber@math.lmu.de)
 
 ## Short bio
 
