@@ -2,8 +2,8 @@
 main:
   - title: "Home"
     url: /
-  - title: "Research"
-    url: /research/
+  - title: "Material"
+    url: /material/
   #- title: "Talks & events"
   #  url: /talks/
   #- title: "Teaching"
