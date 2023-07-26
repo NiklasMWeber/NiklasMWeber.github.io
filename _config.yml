@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Adeline Fermanian
-email: adeline.fermanian@califrais.fr
+title: Niklas Weber
+email: weber@math.lmu.de
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website!
 url: https://niklasmweber.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 twitter_username: AdelineFermani1
-github_username: afermanian
+github_username: NiklasMWeber
 minimal_mistakes_skin: dirt
 search: false
 atom_feed:
@@ -58,44 +58,44 @@ plugins:
   - jekyll-include-cache
 
 author:
-  # name   : "Adeline Fermanian"
+  # name   : "Niklas Weber"
   avatar : "/assets/images/photoprofil.jpg"
-  bio    : "Machine learning researcher."
-  location : "Paris, France"
+  bio    : "Docotral Researcher/PhD Student in Systemic Risk and Machine learning."
+  location : "Munich, Germany"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:adeline.fermanian[at]califrais[dot]fr"
+      url: "mailto:weber[at]math[dot]lmu[dot]de"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/afermanian"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.co.jp/citations?user=3Mfclk8AAAAJ&hl=en"
+      url: "https://github.com/niklasmweber"
+    #- label: "Google Scholar"
+    #  icon: "fas fa-fw fa-graduation-cap"
+    #  url: "https://scholar.google.co.jp/citations?user=3Mfclk8AAAAJ&hl=en"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/adelinefermanian/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AdelineFermani1"
+      url: "https://www.linkedin.com/in/niklas-weber-0770b2164/"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/AdelineFermani1"
 
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:adeline.fermanian[at]califrais[dot]fr"
+      url: "mailto:weber[at]math[dot]lmu[dot]de"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/afermanian"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.co.jp/citations?user=3Mfclk8AAAAJ&hl=en"
+      url: "https://github.com/niklasmweber"
+    #- label: "Google Scholar"
+    #  icon: "fas fa-fw fa-graduation-cap"
+    #  url: "https://scholar.google.co.jp/citations?user=3Mfclk8AAAAJ&hl=en"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/adelinefermanian/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AdelineFermani1"
+      url: "https://www.linkedin.com/in/niklas-weber-0770b2164/"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square"
+    #  url: "https://twitter.com/AdelineFermani1"
 
 defaults:
   # _posts
