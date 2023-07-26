@@ -11,7 +11,7 @@ Over the course of the last years as a student and researcher in mathematics, qu
 
 * **Optiver's Hungry Ant**
 in *Proceedings of the 40th International Conference on Machine Learning*  
-[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2301.11647.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/LinusBleistein/SigLasso){: .btn}
+[<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2301.11647.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/LinusBleistein/SigLasso){: .btn}  [<i class="fab fa-google"></i> colab](https://colab.research.google.com/drive/1u7cPvjooGWKv9EaVmdlKSyv5RJoN6Uuq?usp=sharing)
 
 
 * **New Directions in the Applications of Rough Path Theory**. Fermanian, A., Lyons, T., Morrill, J., Salvi, C. (2023)  
