@@ -13,7 +13,7 @@ Over the course of the last years as a student and researcher in mathematics, qu
 A brainteaser that was part of Optiver's recruiting process recently  
 [<i class="fab fa-github"></i> code](https://github.com/NiklasMWeber/Optivers_Ant){: .btn}  [<i class="fab fa-google"></i> colab](https://colab.research.google.com/drive/1u7cPvjooGWKv9EaVmdlKSyv5RJoN6Uuq?usp=sharing){: .btn}
 
-* **Optiver's Magic Wand**. Fermanian, A., Lyons, T., Morrill, J., Salvi, C. (2023)  
+* **Optiver's Magic Wand**  
 A brainteaser that was part of Optiver's recruiting process recently  
 [<i class="fab fa-github"></i> code](https://github.com/NiklasMWeber/Optivers_Magic_Wand){: .btn}  [<i class="fab fa-google"></i> colab](https://colab.research.google.com/drive/1EeN-cAJlbcCTwY-jDxZxac2JhpjLA-Cf?usp=sharing){: .btn}
 
