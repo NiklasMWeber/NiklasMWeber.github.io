@@ -8,8 +8,6 @@ Welcome to my personal website! If you want to get in touch, you can contact me 
 
 ## Short Bio according to ChatGPT after feeding it my CV
 
-Niklas Weber - Mathematician and Quantitative Finance Researcher
-
 I am Niklas Weber, a passionate mathematician and researcher in quantitative finance, based in Munich, Germany. My academic journey has been centered around understanding complex financial systems and applying machine learning techniques to explore areas like systemic risk and default propagation in networks.
 
 Currently, I am pursuing my doctoral research at the [Workgroup Financial Mathematics](https://www.fm.mathematik.uni-muenchen.de/index.html) of [Ludwig-Maximilians-Universität Munich](https://www.lmu.de/en/) supervised by [Prof. Thilo Meyer-Brandis](https://www.fm.mathematik.uni-muenchen.de/personen/professors/meyer_brandis/index.html), [Ludwig-Maximilians-Universität Munich](https://www.lmu.de/en/) and [Prof. Lukas Gonon](https://www.imperial.ac.uk/people/l.gonon), [Imperial College London](https://www.imperial.ac.uk). My primary focus is on investigating systemic risk, machine learning and how both disciplines can benefit from or another. Alongside my research, I actively contribute as a teaching assistant for various courses, including linear algebra, optimization, and computational finance.
