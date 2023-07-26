@@ -18,7 +18,6 @@ email: weber@math.lmu.de
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website!
 url: https://niklasmweber.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-twitter_username: AdelineFermani1
 github_username: NiklasMWeber
 minimal_mistakes_skin: dirt
 search: false
