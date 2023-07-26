@@ -16,8 +16,8 @@ My educational background includes a Master of Science degree in Quantitative Fi
 
 Before pursuing advanced degrees, I completed my Bachelor's degree in Business Mathematics at Ludwig-Maximilians-Universität Munich. During this time, I worked on various projects, including my thesis on "Static Replication of Window Double Barrier Options" using MATLAB.
 
-Outside academics and finance, I am an active member of various student clubs and organizations. I co-founded and currently lead a Quant Finance Interview Preparation Class at the Workgroup Financial Mathematics every semester. As a result of these activities it we manged to found the Munich Branch of the [Beta Sigma Club](https://www.betasigmaclub.com), where we ``create the next generation of Quants
-by letting students creatively and critically engage with financial markets.'' 
+Outside academics and finance, I am an active member of various student clubs and organizations. I co-founded and currently lead a Quant Finance Interview Preparation Class at the Workgroup Financial Mathematics every semester. As a result of these activities it we manged to found the Munich Branch of the [Beta Sigma Club](https://www.betasigmaclub.com), where we ''create the next generation of Quants
+by letting students creatively and critically engage with financial markets.`` 
 
 You can find my complete CV here: [Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/assets/docs/Detailed_CV_Weber.pdf)
 
