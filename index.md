@@ -6,18 +6,21 @@ classes: wide
 
 Welcome to my personal website! If you want to get in touch, you can contact me at [weber@math.lmu.de](mailto:weber@math.lmu.de)
 
-## Short bio
+## Short Bio according to ChatGPT after feeding it my CV
 
-I have joined [Califrais](https://www.califrais.fr/) in April 2023 as a machine learning researcher. We work on developing articifical intelligence tools for fresh produce logistics, with many research topics such as demand predictive analysis, perishable goods stock optimization, dynamic pricing strategies...
+Niklas Weber - Mathematician and Quantitative Finance Researcher
 
-I was between November 2021 and November 2022 a postdoctoral researcher at the [Center for Computational Biology (CBIO)](https://cbio.ensmp.fr), [Mines ParisTech](https://www.minesparis.psl.eu), under the supervision of [Chloé-Agathe Azencott](http://cazencott.info/index.php), and funded by the [PRAIRIE](https://prairie-institute.fr) institute.
+I am Niklas Weber, a passionate mathematician and researcher in quantitative finance, based in Munich, Germany. My academic journey has been centered around understanding complex financial systems and applying machine learning techniques to explore areas like systemic risk and default propagation in networks.
 
-Previously, I was a PhD student in Statistics at [LPSM](http://www.lpsm.paris/), Sorbonne Université, under the supervision of [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Benoît Cadre](https://w3.ens-rennes.fr/math/people/benoit.cadre/). 
+Currently, I am pursuing my doctoral research at the [Workgroup Financial Mathematics](https://www.fm.mathematik.uni-muenchen.de/index.html) of [Ludwig-Maximilians-Universität Munich](https://www.lmu.de/en/) supervised by [Prof. Thilo Meyer-Brandis](https://www.fm.mathematik.uni-muenchen.de/personen/professors/meyer_brandis/index.html), [Ludwig-Maximilians-Universität Munich](https://www.lmu.de/en/) and [Prof. Lukas Gonon](https://www.imperial.ac.uk/people/l.gonon), [Imperial College London](https://www.imperial.ac.uk). My primary focus is on investigating systemic risk, machine learning and how both disciplines can benefit from or another. Alongside my research, I actively contribute as a teaching assistant for various courses, including linear algebra, optimization, and computational finance.
 
-You can find my complete CV here: [Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/assets/docs/Detailed_CV_Fermanian.pdf),
+My educational background includes a Master of Science degree in Quantitative Finance, earned through a double-degree program at Alma Mater Studiorum Università di Bologna. I am proud to have graduated with distinction (110/110 cum laude) and had the opportunity to participate in the enriching Erasmus+ experience. Additionally, I hold another Master's degree in Financial Mathematics from Ludwig-Maximilians-Universität Munich, where I was involved in the GrEnFIn (Greening Energy Market and Finance) European Erasmus+ Project. My thesis on "Signature Regression and Credit Cycle Forecasting" was well-received.
 
-## Research interests
+Before pursuing advanced degrees, I completed my Bachelor's degree in Business Mathematics at Ludwig-Maximilians-Universität Munich. During this time, I worked on various projects, including my thesis on "Static Replication of Window Double Barrier Options" using MATLAB.
 
-I am generally interested in theoretical aspects of machine learning, in particular in neural ordinary differential equations and deep learning, learning with time series, and optimization. The topic of my PhD was the application of signatures, a tool from stochastic analysis that allows to extract information from temporal data, in statistics and machine learning. This subject has been developed in two directions: on the one hand, designing new algorithms using signatures as features, and, on the other hand, leveraging the theory of signatures to study existing deep learning algorithms such as RNN, via the recent notion of neural ordinary differential equations. Check out the [DataSig website](https://datasig.ac.uk) for more information on applications of signatures in machine learning.
+Outside academics and finance, I am an active member of various student clubs and organizations. I co-founded and currently lead a Quant Finance Interview Preparation Class at the Workgroup Financial Mathematics every semester. As a result of these activities it we manged to found the Munich Branch of the [Beta Sigma Club](https://www.betasigmaclub.com), where we ``create the next generation of Quants
+by letting students creatively and critically engage with financial markets.'' 
+
+You can find my complete CV here: [Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/assets/docs/Detailed_CV_Weber.pdf)
 
 
