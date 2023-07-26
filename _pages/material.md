@@ -9,7 +9,7 @@ classes: wide
 Over the course of the last years as a student and researcher in mathematics, quantitative finance and machine learning I stumbled across many interesting topics and decided it might be worth sharing my notes, thoughts, slides or code in case more people are interested. Feel free to contact [me]() if you want to discuss anything and make sure to check out the website of my dear friend and fellow PhD student [Niklas Walter](niklaswalter.github.io) whose website contains more fascinating content.
 
 
-* **Optiver's Hungry Ant**
+* **Optiver's Hungry Ant**  
 A brainteaser that was part of Optiver's recruiting process recently  
 [<i class="fab fa-github"></i> code](https://github.com/NiklasMWeber/Optivers_Ant){: .btn}  [<i class="fab fa-google"></i> colab](https://colab.research.google.com/drive/1u7cPvjooGWKv9EaVmdlKSyv5RJoN6Uuq?usp=sharing){: .btn}
 
