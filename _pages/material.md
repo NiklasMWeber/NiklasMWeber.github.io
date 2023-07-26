@@ -1,13 +1,15 @@
 ---
-permalink: /research/
-title: "Research"
+permalink: /material/
+title: "Material"
 classes: wide
 ---
 
-## Published articles 
+## Material
+
+Over the course of the last years as a student and researcher in mathematics, quantitative finance and machine learning I stumbled across many interesting problems and decided it might be worh sharing my notes, thoguhts, slides or code in case more people are interested. Feel free to contact me if you want to discuss anything and make sure to check out the website of my dear friend and fellow PhD student [Niklas Walter](niklaswalter.github.io) whose website contains more fascinating content.
 
 
-* **Learning the Dynamics of Sparsely Observed Interacting Systems**. Bleistein L., Fermanian, A., Jannot A.S., Guilloux, A. (2023) 
+* **Optiver's Hungry Ant**
 in *Proceedings of the 40th International Conference on Machine Learning*  
 [<i class="fas fa-file-pdf"></i> article](https://arxiv.org/pdf/2301.11647.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/LinusBleistein/SigLasso){: .btn}
 
