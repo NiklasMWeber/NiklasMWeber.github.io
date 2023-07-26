@@ -28,9 +28,8 @@ A brainteaser that was part of Optiver's recruiting process some time ago
 Slides with a short introduction to the math behind word2vec  
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/word2vec.pdf){: .btn}
 
-* **Hull-White model and Calibration{Hull-White Model and Calibration\\
-Perfect Fit of the Term Structure**  
-A short presentation how a Trinomial Tree in a Hull-White model can be perfectly fitted to an existing term structure. Unfortunately the code can not be published.   
+* **Hull-White model and Calibration{Hull-White Model and Calibration**  
+A short presentation how a trinomial tree in a Hull-White model can be perfectly fitted to an existing term structure. Unfortunately the code can not be published.   
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/hull_white_calib.pdf){: .btn}
 
 
