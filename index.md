@@ -19,6 +19,6 @@ Before pursuing advanced degrees, I completed my Bachelor's degree in Business M
 Outside academics and finance, I am an active member of various student clubs and organizations. I co-founded and currently lead a Quant Finance Interview Preparation Class at the Workgroup Financial Mathematics every semester. As a result of these activities it we manged to found the Munich Branch of the [Beta Sigma Club](https://www.betasigmaclub.com), where we "create the next generation of Quants
 by letting students creatively and critically engage with financial markets." 
 
-You can find my complete CV here: [Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/assets/docs/Detailed_CV_Weber.pdf)
+You can find my complete CV here: [Curriculum Vitae]({{ site.url }}{{ site.baseurl }}/assets/docs/CV_Niklas_Weber_2024_short.pdf)
 
 
